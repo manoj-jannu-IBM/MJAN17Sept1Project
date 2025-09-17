@@ -8,17 +8,19 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-  <null name="requires"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="DADA_GlobalVariable1">1.0</value>
+  </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">2</value>
+  <value name="build">3</value>
   <null name="description"/>
   <value name="created_date">17-09-2025 07:36:07 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-09-17T07:36:08.290229013Z</value>
+  <value name="lastUpdated">2025-09-17T07:36:31.21130766Z</value>
   <value name="wmProjectId">flfcc1fe79c61eca89b5feea</value>
   <value name="creator">manoj jannu</value>
 </Values>
